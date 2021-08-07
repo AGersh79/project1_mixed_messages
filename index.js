@@ -1,8 +1,8 @@
-const proverb1 = [];
-const proverb2 = [];
-const proverb3 = [];
-const proverb4 = [];
-const proverb5 = [];
+const proverb1 = [Not, knowing, is, Buddha];
+const proverb2 = [Gold, coins, to, a cat];
+const proverb3 = [Even, monkeys, fall from, trees];
+const proverb4 = [Time, flies, like, an arrow];
+const proverb5 = [Hot, dumplings, rather than, flowers];
 const proverb6 = [];
 const proverb7 = [];
 const proverb8 = [];
