@@ -1,13 +1,14 @@
+<<<<<<< Updated upstream
 const proverb1 = [Not, knowing, is, Buddha];
 const proverb2 = [Gold, coins, to, a cat];
 const proverb3 = [Even, monkeys, fall from, trees];
 const proverb4 = [Time, flies, like, an arrow];
 const proverb5 = [Hot, dumplings, rather than, flowers];
-const proverb6 = [];
-const proverb7 = [];
-const proverb8 = [];
-const proverb9 = [];
-const proverb10 = [];
+const proverb6 = ["Not", "seeing", "is", "a flower."];
+const proverb7 = ["Child  of", "a frog", "is", "a frog."];
+const proverb8 = ["Let", "flow", "in the", "water."];
+const proverb9 = ["Search", "heart", "rather than", "appearance."];
+const proverb10 = ["Fall down", "seven times,", "get up", "eight."];
 
 
 const allProverbs = [proverb1, proverb2, proverb3, proverb4, proverb5, proverb6, proverb7, proverb8, proverb9, proverb10];
